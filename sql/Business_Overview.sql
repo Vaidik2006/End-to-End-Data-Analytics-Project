@@ -16,8 +16,8 @@ from superstore;
 
 -- DATE RANGE OF BUSINESS DATA
 select 
-    MIN(order_date) as first_order_date,
-    MAX(order_date) as last_order_date
+    min(order_date) as first_order_date,
+    max(order_date) as last_order_date
 from superstore;
 
 -- SALES AND PROFIT BY CATEGORY
