@@ -25,7 +25,7 @@ Prepare the retail dataset for analysis by creating a structured database, handl
 * Clean and structured dataset ready for analytical queries
 * No data loss or encoding errors
 * Enabled reliable time-based analysis
-* 
+  
 ## Day 2: Business Analysis and Insights
 
 ### Objective
