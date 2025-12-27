@@ -41,3 +41,19 @@ Analyze retail sales data using SQL to identify performance trends and generate 
 * Identified high-performing and loss-making areas
 * Revealed impact of discounts on profitability
 * Generated insights useful for pricing and strategy decisions
+
+## Day 3: Power BI Dashboard
+
+### Objective
+
+* Visualize SQL-based retail analysis using Power BI to present key business insights clearly.
+* Tasks Performed
+* Exported aggregated SQL results into CSV files
+* Built KPI cards for sales, profit, orders, and average order value
+* Created category-wise, region-wise, and time-based visualizations
+* Analyzed discount impact on profitability
+
+### Outcome
+* Delivered a clean, business-ready Power BI dashboard
+* Enabled quick understanding of sales performance and trends
+* Completed an end-to-end analytics workflow
