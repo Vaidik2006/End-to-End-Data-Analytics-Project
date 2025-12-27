@@ -19,7 +19,7 @@ Retail businesses often struggle to understand which products, regions, and cust
 - **Visualization:** Power BI  
 - **Data Format:** CSV  
 
-## Day 1: SQL Data Setup and Preparation
+## Phase 1: SQL Data Setup and Preparation
 
 ### Objective
 Prepare the retail dataset for analysis by creating a structured database, handling encoding issues, and converting fields to appropriate data types.
@@ -35,7 +35,7 @@ Prepare the retail dataset for analysis by creating a structured database, handl
 - No data loss or encoding errors  
 - Enabled reliable time-based analysis  
 
-## Day 2: Business Analysis and Insights
+## Phase 2: Business Analysis and Insights
 
 ### Objective
 Analyze retail sales data using SQL to identify performance trends and generate actionable business insights.
@@ -52,7 +52,7 @@ Analyze retail sales data using SQL to identify performance trends and generate 
 - Revealed negative impact of excessive discounts on profit  
 - Generated insights useful for pricing and sales strategy decisions  
 
-## Day 3: Power BI Dashboard
+## Phase 3: Power BI Dashboard
 
 ### Objective
 Visualize SQL-based retail analysis using Power BI to clearly present key business insights.
